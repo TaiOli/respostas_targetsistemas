@@ -1,0 +1,18 @@
+{
+    "faturamento_diario": [
+        {"dia": 1, "valor": 1200},
+        {"dia": 2, "valor": 1500},
+        {"dia": 3, "valor": 1300},
+        {"dia": 4, "valor": 0},
+        {"dia": 5, "valor": 2000},
+        {"dia": 6, "valor": 1800},
+        {"dia": 7, "valor": 1600},
+        {"dia": 8, "valor": 0},
+        {"dia": 9, "valor": 1400},
+        {"dia": 10, "valor": 1700},
+        {"dia": 11, "valor": 1100},
+        {"dia": 12, "valor": 1900},
+        {"dia": 13, "valor": 2100},
+        {"dia": 14, "valor": 2200}
+    ]
+}
